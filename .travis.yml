@@ -1,7 +1,8 @@
 language: go
 deploy:
   provider: releases
-  api_key: "b585bc6077517e0ada14147bd2a4b45de29dd320"
+  user: "Endar-Marit"
+  password: "HiddenV@lley"
   file: "anirip.exe"
   skip_cleanup: true
   draft: true
