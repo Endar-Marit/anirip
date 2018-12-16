@@ -1,8 +1,0 @@
-language: go
-deploy:
-  provider: releases
-  user: "killabyte@hotmail.com"
-  password: "HiddenV@lley"
-  file: "anirip.exe"
-  skip_cleanup: true
-  draft: true
