@@ -1,1 +1,8 @@
 language: go
+deploy:
+  provider: releases
+  api_key: "b585bc6077517e0ada14147bd2a4b45de29dd320"
+  file: "anirip.exe"
+  skip_cleanup: true
+  on:
+    tags: true
