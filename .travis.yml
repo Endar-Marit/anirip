@@ -1,8 +1,8 @@
 language: go
 deploy:
   provider: releases
-  user: "Endar-Marit"
-  password: "HiddenV@lley"
+  user: Endar-Marit
+  password: HiddenV@lley
   file: "anirip.exe"
   skip_cleanup: true
   draft: true
